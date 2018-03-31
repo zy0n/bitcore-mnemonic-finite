@@ -1,8 +1,8 @@
 {
   "name": "bitcore-mnemonic",
-  "main": "./bitcore-mnemonic-dinero.min.js",
+  "main": "./bitcore-mnemonic-finite.min.js",
   "version": "1.1.3",
-  "homepage": "https://github.com/dinerocoin/bitcore-mnemonic-dinero",
+  "homepage": "https://github.com/finitecoin/bitcore-mnemonic-finite",
   "authors": [
     "BitPay"
   ],
@@ -11,7 +11,7 @@
     "globals"
   ],
   "keywords": [
-    "dinero",
+    "finite",
     "bitcore",
     "satoshi",
     "mnemonic"
