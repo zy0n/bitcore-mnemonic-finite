@@ -1,0 +1,30 @@
+{
+  "name": "bitcore-mnemonic",
+  "main": "./bitcore-mnemonic-dinero.min.js",
+  "version": "1.1.3",
+  "homepage": "https://github.com/dinerocoin/bitcore-mnemonic-dinero",
+  "authors": [
+    "BitPay"
+  ],
+  "description": "BIP39 - Mnemonics implemented for Bitcore.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "dinero",
+    "bitcore",
+    "satoshi",
+    "mnemonic"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "index.js",
+    "gulpfile.js",
+    "README.md",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
